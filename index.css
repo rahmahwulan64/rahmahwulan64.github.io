@@ -1,0 +1,13 @@
+body {
+  background-image: url(latarbelakangkuning.jpg
+);
+} 
+
+h1 {background-color:hsl(342, 4%, 50%);color:white;text-align: center;font-family:verdana}
+table {color:rgb(63, 59, 69) }
+h4 {float: right;}
+
+h3 {background-color:hsl(342, 4%, 50%);color:white;padding: 10px;font-family: verdana}
+ul {border: 2px solid hsl(342, 4%, 50%); margin: 50px;background-color: white}
+
+p{color:rgb(63, 59, 69) }
