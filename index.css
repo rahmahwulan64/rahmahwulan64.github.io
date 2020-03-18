@@ -4,10 +4,10 @@ body {
 } 
 
 h1 {background-color:hsl(342, 4%, 50%);color:white;text-align: center;font-family:verdana}
-table {color:rgb(63, 59, 69) }
+table {color:rgb(63, 59, 69);font-family: Alef;font-size: 15px}
 h4 {float: right;}
 
 h3 {background-color:hsl(342, 4%, 50%);color:white;padding: 10px;font-family: verdana}
-ul {border: 2px solid hsl(342, 4%, 50%); margin: 50px;background-color: white}
+ul {border: 2px solid hsl(342, 4%, 50%); margin: 50px;background-color: white; font-family: Alef}
 
-p{color:rgb(63, 59, 69) }
+p{color:rgb(63, 59, 69); font-size: 12px; font-family: Lucida Console }
